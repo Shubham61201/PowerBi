@@ -1,3 +1,4 @@
+![DYNAMIC TOTALSALES DASHBOARD](https://github.com/user-attachments/assets/2e5e455b-5709-4cde-bd60-f88a95993892)
 <header>
         <h1>Dynamic Totalsales Dashboard</h1>
         <p>The Dynamic Totalsales Dashboard provides insights into sales, profit, and quantity data for a specific project. It presents key metrics and visualizations to analyze the data by various parameters like Ship Mode, Segment, Region, and Category.</p>
