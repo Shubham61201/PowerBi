@@ -1,4 +1,10 @@
+<tital>
+<b>PowerBI Project</b>
+</tital>       
+        
 ![DYNAMIC TOTALSALES DASHBOARD](https://github.com/user-attachments/assets/2e5e455b-5709-4cde-bd60-f88a95993892)
+<h4>📌Click there to view the DYANAMIC TOTALSALES DASHBOARD👇👇👇👇</h4>
+<URL>https://project.novypro.com/xzZAdc</URL>
 <header>
         <h1>Dynamic Totalsales Dashboard</h1>
         <p>The Dynamic Totalsales Dashboard provides insights into sales, profit, and quantity data for a specific project. It presents key metrics and visualizations to analyze the data by various parameters like Ship Mode, Segment, Region, and Category.</p>
@@ -49,8 +55,5 @@
             <li>Expand the product range in the Technology category to cater to growing demand.</li>
         </ul>
     </section>
-<h4>Click there to view the DYANAMIC TOTALSALES DASHBOARD</h4>
-<URL>https://project.novypro.com/xzZAdc</URL>
-<br>
-<img src="file:///C:/Users/Admin/Videos/Captures/DYNAMIC%20TOTALSALES%20DASHBOARD.png" alt="Total Sales Dashboard">
+
 
