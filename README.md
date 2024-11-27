@@ -51,6 +51,5 @@
 <h4>Click there to view the DYANAMIC TOTALSALES DASHBOARD</h4>
 <URL>https://project.novypro.com/xzZAdc</URL>
 <br>
-![DYNAMIC TOTALSALES DASHBOARD](https://github.com/user-attachments/assets/0ca60cf7-3966-48a7-a65c-312ef87c2f25)
-
+<img src="file:///C:/Users/Admin/Videos/Captures/DYNAMIC%20TOTALSALES%20DASHBOARD.png" alt="Total Sales Dashboard">
 
